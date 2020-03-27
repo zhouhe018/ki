@@ -7,4 +7,3 @@ articles:
   show_readmore: true
 ---
 
-#Data Analysis
