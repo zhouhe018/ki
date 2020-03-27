@@ -207,12 +207,13 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: true
-      license: true
+      sharing: false # true
+      license: false # true
       aside:
-        toc: true
-      show_edit_on_github: true
-      show_subscribe: true
+        toc: false # true
+      show_date: false # true
+      show_edit_on_github: false # true
+      show_subscribe: false # true
       pageview: true
 
 
